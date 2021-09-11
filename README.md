@@ -40,9 +40,3 @@
 - 👯 I’m looking to collaborate on: .NET projects
 
 </br>
-
-<p align="center">
- <a href="#" alt="Ndumiso Manqele's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nduh0976&theme=tokyonight&show_icons=true" />
- </a>
-</p>
