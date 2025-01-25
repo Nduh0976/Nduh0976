@@ -27,16 +27,6 @@
 
 </br>
 
-<p align="center"> 
-  <strong>
-    I am currently learning
-  </strong>
-</p>
-
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" />
-</p>
-
 - 👯 I’m looking to collaborate on: .NET projects
 
 </br>
